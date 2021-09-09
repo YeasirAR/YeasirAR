@@ -26,7 +26,6 @@
   ![JavaScript](https://img.icons8.com/dusk/45/000000/javascript-logo.png)
 
 
-<br/>
 
 ### Connect with me:
 <p align="left">
