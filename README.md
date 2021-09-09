@@ -15,3 +15,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YeasirAR&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirAR&theme=buefy&layout=compact" />
 </a>
+
+
+### Connect with me:
+<p align="left">
+<a href = "https://www.facebook.com/yeasirofficial/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/yeasirar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/yeasirar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.youtube.com/c/inceptator"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
