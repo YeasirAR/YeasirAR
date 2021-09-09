@@ -2,14 +2,15 @@
 ## 🚀 Tech Enthusiast | Competitive Programmer | Content Creator 🚀
 
 
-Here are some ideas to get you started:
+### :supervillain_man: About me
 
-- 🔭 I’m currently studying Computer Science & Engineering at United International University.
-- 🌱 I’m currently learning Machine Learning
+- 🎓 Studying Computer Science & Engineering at United International University.
+- 🌱 Learning more about Machine Learning, Artificial Intelligence & UX Design
+- 💼 Working as Android App Developer at [SU Droid Tech](sudroidtech.com)
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Writing tech blog posts on [SoftnGeek](softngeek.com)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
