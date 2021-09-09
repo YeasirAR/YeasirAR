@@ -1,4 +1,6 @@
-### Hey there traveller! 👋
+## Hey there traveller! 👋 I'm [Yeasir Arafat](https://github.com/YeasirAR)
+## 🚀 Tech Enthusiast | Competitive Programmer | Content Creator 🚀
+
 
 Here are some ideas to get you started:
 
