@@ -11,4 +11,7 @@
 - 💬 Writing technology related blog posts on [SoftnGeek](https://www.softngeek.com/)
 - 📫 How to reach me: [Email me](mailto:yeasirar@gmail.com)
 
-
+<a href="https://github.com/YeasirAR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YeasirAR&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirAR&theme=buefy&layout=compact" />
+</a>
