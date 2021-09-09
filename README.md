@@ -16,6 +16,17 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirAR&theme=buefy&layout=compact" />
 </a>
 
+### Languages
+
+  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+  ![Java](https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v1.png)
+  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  ![JavaScript](https://img.icons8.com/dusk/45/000000/javascript-logo.png)
+
+
+<br/>
 
 ### Connect with me:
 <p align="left">
