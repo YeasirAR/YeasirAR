@@ -7,7 +7,7 @@
 - 🎓 Studying Computer Science & Engineering at United International University.
 - 🌱 Learning more about Machine Learning, Artificial Intelligence & UX Design
 - 💼 Working as Android App Developer at [SU Droid Tech](sudroidtech.com)
-- 💼 OOP- AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/)
+- 💼 OOP - AOOP Instructor at [UIU APP FORUM](https://www.facebook.com/uiuappf/)
 - 👯 I’m looking to collaborate on Machine Learning based project with python.
 - 💬 Writing technology related blog posts on [SoftnGeek](https://www.softngeek.com/)
 - 📫 How to reach me: [Email me](mailto:yeasirar@gmail.com)
